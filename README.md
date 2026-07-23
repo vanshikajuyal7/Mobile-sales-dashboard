@@ -28,7 +28,7 @@ This project is an interactive Power BI dashboard developed to analyze mobile sa
 
 ## Dashboard Preview
 
-![Mobile Sales Dashboard](Mobile%20sales%20dashboard%20Screenshot%20.png)
+![Mobile Sales Dashboard](mobile-sales-dashboard.png)
 
 ## Key Learnings
 Through this project, I gained hands-on experience in building interactive dashboards, creating DAX measures, designing effective visualizations, and presenting business insights using Power BI.
